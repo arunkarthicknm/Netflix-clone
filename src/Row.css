@@ -1,5 +1,7 @@
 
-
+.row{
+    margin-left: 20px;
+}
 .row_posters {
     /* To allign in a rowise*/
     display: flex;
@@ -22,3 +24,9 @@
 .row_poster:hover {
     transform: scale(1.08);
 }    
+.row_posterlarge{
+    max-height: 250px;
+}
+.row_posterlarge:hover {
+    transform: scale(1.09);
+}   
