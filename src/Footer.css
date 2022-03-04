@@ -1,0 +1,7 @@
+.TITLE {
+    color: black;
+    background-image: linear-gradient(to right, red , red);
+    padding-left: 500px;
+    align-self: start;
+   
+}
