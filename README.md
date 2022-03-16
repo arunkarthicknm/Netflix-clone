@@ -1,3 +1,18 @@
+A Neflix clone built from scratch using React.js and Moviedb API.
+
+Deployed at --> https://netflix-clone-36049.firebaseapp.com/
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
